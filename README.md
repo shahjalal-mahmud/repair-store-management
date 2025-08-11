@@ -1,12 +1,52 @@
-# React + Vite
+# Repair Store Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application for managing repair store operations, built with **React**, **Vite**, **Tailwind CSS**, and **DaisyUI**.
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Modern and responsive UI built with **Tailwind CSS** and **DaisyUI**
+- Lightning-fast development experience with **Vite**
+- **React 19** with the latest features
+- **ESLint** configured for code quality
+- Easy theming with DaisyUI components
+
+---
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- npm (v9 or higher) or yarn
+- [Git](https://git-scm.com/)
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/shahjalal-mahmud/repair-store-management.git
+   cd repair-store-management
+
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+
+   ```
+## ⚙️ Available Scripts
+```bash
+  npm run dev
+
+   ```
